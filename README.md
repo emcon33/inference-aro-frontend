@@ -24,7 +24,7 @@ Ensure it is public
 
 2. Update the URL from your backend and then Deploy via Git source to your link. 
 In your fork github repo, edit the main.py update the below link for your backend URL and commit. Then deploy into your project via git import. 
-REST_API_URL = "https://inference-rosa-workshop-test2.apps.aro-wz89j.pbio.p1.openshiftapps.com/api/predict"
+REST_API_URL = "https://inference-aro-workshop-test2.apps.aro-wz89j.pbio.p1.openshiftapps.com/api/predict"
 
 3. Use the two embeded images to test the connection. You can also upload test images from the repo page. 
 
