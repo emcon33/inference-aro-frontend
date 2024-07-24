@@ -1,5 +1,5 @@
 # inference-aro-frontend
-# This adds a Gradio Frontend to the project prior project
+# This adds a Gradio Frontend to the project on Azure
 Upload in your images to see the predictions made by the model in a web interface.
 Mod by Andrew Grimes and Jim Garrett of Red Hat 
 
