@@ -14,7 +14,7 @@ Sample Frontend Input Image:
 </p>
 
 This workshop adds onto a prior deployment for this backend. This workshop ads a Gradio based front end to the project. this expects an existing ARO cluster and an existing backend deployment in a project. 
-Backend Repo https://github.com/emcon33/inference-rosa-workshop
+Backend Repo https://github.com/emcon33/inference-aro-workshop
 
 OpenShift/ARO Web Front End instructions (deck to be created) 
 1. Fork this repo to your github account, you will have to modify the URL in this file to your backend and hard code the link prior to the build.
