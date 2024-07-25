@@ -4,7 +4,7 @@ import requests
 # Set URL
 # Run: 
 # update REST_API_URL to your backend link (currently not dynamic)
-REST_API_URL = "https://inference-aro-workshop-deleteme2.apps.j3k4m7b6.eastus.aroapp.io/api/predict"
+REST_API_URL = "https://inference-aro-workshop-deleteme.apps.eywr5gde.eastus.aroapp.io/api/predict"
 
 # Inference!
 def inference(image_path):
