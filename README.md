@@ -13,6 +13,7 @@ Sample Frontend Input Image:
   </em>
 </p>
 
+
 This workshop adds onto a prior deployment for this backend. This workshop ads a Gradio based front end to the project. this expects an existing ARO cluster and an existing backend deployment in a project. 
 Backend Repo https://github.com/emcon33/inference-aro-workshop
 
